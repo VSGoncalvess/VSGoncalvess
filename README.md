@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on small projects to practice more.
-- 📫 How to reach me: Insta @vitoorgoncalvees || Twitter @protozera
+- 📫 How to reach me: Insta @vitoorgoncalvees
 
 <!---
 VSGoncalvess/VSGoncalvess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
